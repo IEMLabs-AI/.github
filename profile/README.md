@@ -20,10 +20,7 @@ Computer vision and Artificial Intelligence has influenced many domains like map
 5. Getting started with TensorFlow
 6. Creative projects
 
-
-### Syllabus 
-1. Suffice Prerequisites
-2. 
+Check out [Course Syllabus]()
 
 ### Instructors
 Rohit Prasan Manddal
