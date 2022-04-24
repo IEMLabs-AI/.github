@@ -20,7 +20,7 @@ Computer vision and Artificial Intelligence has influenced many domains like map
 5. Getting started with TensorFlow
 6. Creative projects
 
-Check out [Course Syllabus]()
+Check out [Course Syllabus](https://github.com/IEMLabs-AI/.github/blob/main/profile/Machine%20Leanring%201%20:%20IEMLabs%20Syllabus.md)
 
 ### Instructors
 Rohit Prasan Manddal
