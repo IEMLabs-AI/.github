@@ -29,8 +29,6 @@ To work with instructors (publication/research project) mail by clicking on the 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/xiaowuc2"><img src="https://avatars.githubusercontent.com/u/50553530?s=400&u=388aff5033ff6d78e2cc7b9aa98102dd7add113c&v=4" width="100px;" alt=""/><br /><sub><b>Rohit Prasan Mandal</b></sub></a><br /><a href="https://mail.google.com/mail/u/0/?to=rohitmandal814566@gmail.com&su=Interested to work with you on <this> domain&body=Name : %0AGitHub id : %0APhone number :&fs=1&tf=cm" title="rohitmandal814566@gmail.com">📧</a></td></table>
-    
-<br></br>
 
 <p><pre align="center">This course repository is developed by Rohit Prasan Mandal.</pre></p>
 
