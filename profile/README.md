@@ -9,5 +9,8 @@ Computer vision and Artificial Intelligence has influenced many domains like map
 3. 
 4. Head first to TensorFlow
 
+### Instructors
+Rohit Prasan Manddal
+
 To work with me (publication/research project) email : rohitmandal814566@gmail.com
 
