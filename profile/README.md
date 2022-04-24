@@ -15,8 +15,8 @@ Computer vision and Artificial Intelligence has influenced many domains like map
 
 1. Suffice prerequisits 
 2. Understand the use of mathematical concepts on the way
-3. Implement machine learning algorithms from scratch ([Assignments](https://github.com/xiaowuc2/Machine-Learning-IEMLabs/blob/main/Assignments.md))
-4. Go through seminal papers on these topics on the go ([Papers](https://github.com/xiaowuc2/Machine-Learning-IEMLabs/blob/main/Papers.md))
+3. Implement machine learning algorithms from scratch 
+4. Go through seminal papers on these topics on the go 
 5. Getting started with TensorFlow
 6. Creative projects
 
