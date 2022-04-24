@@ -1,10 +1,9 @@
-## Hi there 👋
+## Course Name: `Machine Leanring : IEMLabs`
 
+### About
+Computer vision and Artificial Intelligence has influenced many domains like mapping, medicine, drones, and self-driving cars. But still cameras don't have any moral sense. CCTV cameras don't trigger an alarm if it sees someone drowning or detecting gun violence etc. This course will start with the basic algorithms, understanding mathematics behind these algorithms on the way and end up implementing end-to-end models for these tasks : image classification, localization and detection using Python. It is mainly focused on solving your doubts and evoke rational questions on the way. Feel free to shoot me with your all creative questions relevant to this course at Discussion/Questions 💡. After finishing this course if you want you can pull requests for your personal projects in the Project Playground directory. This course repository is developed by @xiaowuc2 for IEMLabs where I'll be taking the offline and online classes.
 
-**Here are some ideas to get you started:**
+This course repository is developed by @xiaowuc2 for IEMLabs where I'll be taking the offine and online classes.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+To work with me (publication/research project) email : rohitmandal814566@gmail.com
+
